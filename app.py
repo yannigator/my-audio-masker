@@ -43,7 +43,7 @@ def wash_audio(input_bytes, intensity):
 # --- THE WEBSITE INTERFACE ---
 st.set_page_config(page_title="AI Audio Humanizer", page_icon="🎧")
 
-st.title("🎧 AI Audio Humanizer")
+st.title("🎧 Yann AI Audio Humanizer")
 st.subheader("Bypass spectral detection by adding organic variation.")
 
 st.info("How to use: Upload your AI-generated song, choose your intensity, and click the 'Mask' button.")
